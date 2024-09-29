@@ -8,7 +8,7 @@
  🐍 **Python**,☕ **Java**,📚 **Data Structures & Algorithms (DSA)**,🔧 **C/C++**,🗃️ **MySQL**
 
 ## Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vignesh-v-539197290)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/vignesh-v-539197290](https://www.linkedin.com/in/vignesh-v-539197290/))
 
 
 
