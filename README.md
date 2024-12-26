@@ -7,24 +7,15 @@
 ## My Skills
  🐍 **Python**,☕ **Java**,📚 **Data Structures & Algorithms (DSA)**,🔧 **C/C++**,🗃️ **MySQL**
  # My Projects
+# Project Title
 
-### Python
-![Python](https://example.com/python_logo.png)
+## Technologies Used
 
-### Java
-![Java](https://example.com/java_logo.png)
-
-### C
-![C](https://example.com/c_logo.png)
-
-### C++
-![C++](https://example.com/cpp_logo.png)
-
-### Data Structures & Algorithms (DSA)
-![DSA](https://example.com/dsa_logo.png)
-
-### MySQL
-![MySQL](https://example.com/mysql_logo.png)
+![Python](assets/logos/python-logo.png)
+![Java](assets/logos/java-logo.png)
+![C](assets/logos/c-logo.png)
+![C++](assets/logos/cpp-logo.png)
+![MySQL](assets/logos/mysql-logo.png)
 
 
 ## Connect With Me
