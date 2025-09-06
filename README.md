@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 I'm a Student @VIT_Vellore
-- 📫 Reach me at v.vigneshvit06@gmail.com
+- 📫 Reach me at vignesh.v06.dev@gmail.com
 
 ## My Skills
 🐍 **Python**, ☕ **Java**, 📚 **Data Structures & Algorithms (DSA)**, 🔧 **C/C++**, 🗃️ **MySql**, 🌐 **Html**, 🎨 **Css**, ⚡ **JavaScript**, ⚛️ **React**
