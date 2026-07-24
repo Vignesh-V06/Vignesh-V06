@@ -1,10 +1,12 @@
 <div align="center">
   
-# Hi, I'm Vignesh 👋
+# Hi, I'm Vignesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### AI • DevOps Practitioner • Backend Developer
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=DevOps+Practitioner;Backend+Developer;Cloud+Enthusiast"/>
+</p>
 
- **<< Engineering Tomorrow, One Commit at a Time. >>**
+ **</ Engineering Tomorrow, One Commit at a Time. />**
 
 </div>
 
@@ -85,6 +87,9 @@
 
 <img src="https://streak-stats.demolab.com?user=Vignesh-V06&theme=tokyonight&hide_border=true"/>
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-V06&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
