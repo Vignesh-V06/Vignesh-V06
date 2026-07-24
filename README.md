@@ -1,11 +1,6 @@
 <div align="center">
-
-# Hi, I'm Vignesh 👋
-
-### AI • DevOps Practitioner • Backend Developer
-
- **<< Engineering Tomorrow, One Commit at a Time. >>**
-
+  
+<img src="/image.png" alt="Banner" width="100%" />
 </div>
 
 ---
