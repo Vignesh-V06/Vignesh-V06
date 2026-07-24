@@ -3,7 +3,7 @@
 # Hi, I'm Vignesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=DevOps+Practitioner;Backend+Developer;Cloud+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=24&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=DevOps+Practitioner;Backend+Developer;Cloud+Enthusiast"/>
 </p>
 
  **</ Engineering Tomorrow, One Commit at a Time. />**
@@ -90,6 +90,9 @@
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-V06&theme=tokyo-night&hide_border=true"/>
+
+![](https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
