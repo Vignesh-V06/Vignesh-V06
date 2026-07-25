@@ -84,8 +84,10 @@
 ---
 
 <div align="center">
+  
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vignesh-V06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Vignesh-V06&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vignesh-V06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 ## 📈 Contribution Graph
 
@@ -111,7 +113,7 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vignesh-v06/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
