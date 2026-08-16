@@ -18,10 +18,10 @@
 
 💡 **Interested In**
 
-- Artificial Intelligence
 - Backend Development
 - Cloud Computing
 - DevOps
+- AI
 
 🌱 **Currently Learning**
 
@@ -78,7 +78,7 @@
 </p>
 
 ---
-
+<!--
 # 📊 GitHub Analytics
 
 ---
@@ -88,7 +88,7 @@
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vignesh-V06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vignesh-V06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+-->
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-V06&theme=tokyo-night&hide_border=true"/>
@@ -96,16 +96,12 @@
 ![](https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 ---
 
 # 🏆 Achievements
 
 - 🏆 IBM DevOps Certified
 - 📄 Research Publication
-- 💡 Patent Filed
-- 👨‍💼 Technical Head — SESI
-- 🎉 Riviera '26 Coordinator
 
 ---
 
