@@ -91,7 +91,7 @@
 -->
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-V06&theme=tokyo-night&hide_border=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vignesh-V06" alt="GitHub Streak" /></a>
 
 ![](https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake-dark.svg)
 
