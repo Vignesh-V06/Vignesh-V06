@@ -74,9 +74,25 @@ Software engineer by mindset, builder by habit. I like turning ideas into workin
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Vignesh-V06&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-<div>
-  ![](https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake-dark.svg)
-</div>
+<p align="center">
+  <a href="https://github.com/Vignesh-V06">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="GitHub contribution snake animation"
+        src="https://raw.githubusercontent.com/Vignesh-V06/Vignesh-V06/output/github-contribution-grid-snake.svg"
+        width="100%"
+      />
+    </picture>
+  </a>
+</p>
 
 ### 💭 Dev Quote
 
